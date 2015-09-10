@@ -1,4 +1,18 @@
-
+#------------------------------------------------------------------------#
+# TITLE:        extract-to-xml.R
+#
+# AUTHOR:       Erich Seamon
+#
+# INSTITUITON:  College of Natural Resources
+#               University of Idaho
+#
+# DATE:         August 12, 2015
+#
+# STAGE:        
+#
+# COMMENTS:     extract data from a data frame and push to xml
+#
+#--Setting the working directory an d clearing the workspace-----------#
 
 library(shiny)
 library(dplyr)
